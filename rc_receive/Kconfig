@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_RC_RECEIVE
+	bool "rc_receive"
+	default n
+	---help---
+		Enable support for rc_receive

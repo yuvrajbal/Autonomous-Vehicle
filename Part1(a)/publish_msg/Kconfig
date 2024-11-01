@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_PUBLISH_MSG
+	bool "publish_msg"
+	default n
+	---help---
+		Enable support for publish_msg
